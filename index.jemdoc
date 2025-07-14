@@ -1,0 +1,42 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+= Zeyan Zhuang (庄泽琰)
+
+~~~
+{}{img_left}{files/bio_pt_zzy.jpg}{alt text}{180px}{240px}
+
+Ph.D. Candidate \n
+[https://ece.hkust.edu.hk/ Department of Electronic and  Computer Engineering]\n 
+[https://hkust.edu.hk/ The Hong Kong University of Science and Technology] \n 
+Hong Kong SAR, China\n 
+\n
+*Email:*  zzhuangac@connect.ust.hk \n
+*Office:*  Room 3121D, Acadamic Building
+\n
+
+[https://scholar.google.com/citations?user=j4TRjawAAAAJ&hl=en Google Scholar] \n
+~~~
+
+
+~~~
+== About me
+I am a fourth-year Ph.D. candidate in electronic and computer engineering at the Hong Kong University of Science and Technology (HKUST), under the supervision of [https://eeshsong.home.ece.ust.hk/ Prof. Shenghui Song]. Prior to this, I received my B.Eng. degree in intelligence science and technology from Nankai University (NKU), Tianjin, China, in 2022. \n
+
+My research interests include *random matrix theory*, *information theory*, and their applications.
+~~~
+
+
+
+== Preprints and Publications
+=== Journal Papers
+  - *Z. Zhuang*, X. Zhang, D. Xu, and S. Song, ``No eigenvalues outside the limiting support of generally correlated and noncentral sample covariance matrices,'' submmited to /IEEE Trans. Inf. Theory/, Jul. 2025. [https://arxiv.org/abs/2507.03356 \[paper\]]
+
+  - *Z. Zhuang*, X. Zhang, D. Xu, and S. Song, ``Fundamental limits of two-hop MIMO channels: An asymptotic approach,'' /IEEE Trans. Inf. Theory/,  vol. 71, no. 6, pp. 4069-4111, Jun. 2025. [https://ieeexplore.ieee.org/document/10938750 \[paper\]]
+
+  - *Z. Zhuang*, X. Zhang, D. Xu, S. Song, and Y. C. Eldar, ``Decentralized MIMO systems with imperfect CSI using LMMSE receivers,'' /IEEE J. Sel. Topics Signal Process./, vol. 19, no. 2, pp. 331-348, Mar. 2025. [https://ieeexplore.ieee.org/document/10879281 \[paper\]]
+=== Conference Papers
+  - X. Zhang, *Z. Zhuang*, S. Song, C. Yuen, and M. Debbah, ``Capacity of holographic MIMO systems with mutual coupling,'' accepted by /IEEE Int. Symp. Inf. Theory (ISIT)/, 2025.
+
+  - *Z. Zhuang*, X. Zhang, D. Xu, and S. Song, ``Asymptotics of spiked covariance model with random projection,'' accepted by /IEEE Int. Symp. Inf. Theory (ISIT)/, 2025.
+
+  - *Z. Zhuang*, X. Zhang, D. Xu, and S. Song, ``Active IRS-aided MIMO communications: How much gain can we get?'' in /Proc. IEEE Wireless Commun. Netw. Conf. (WCNC)/, Dubai, UAE, Apr. 2024, pp. 1-6. [https://ieeexplore.ieee.org/abstract/document/10570925 \[paper\]]
+
