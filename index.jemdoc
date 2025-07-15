@@ -16,27 +16,38 @@ Hong Kong SAR, China\n
 [https://scholar.google.com/citations?user=j4TRjawAAAAJ&hl=en Google Scholar] \n
 ~~~
 
-
 ~~~
 == About me
 I am a fourth-year Ph.D. candidate in electronic and computer engineering at the Hong Kong University of Science and Technology (HKUST), under the supervision of [https://eeshsong.home.ece.ust.hk/ Prof. Shenghui Song]. Prior to this, I received my B.Eng. degree in intelligence science and technology from Nankai University (NKU), Tianjin, China, in 2022. \n
 
-My research interests include *random matrix theory*, *information theory*, and their applications.
+My research interests include random matrix theory, information theory, and their applications in wireless communications, signal processing, and data science.
 ~~~
-
 
 
 == Preprints and Publications
 === Journal Papers
-  - *Z. Zhuang*, X. Zhang, D. Xu, and S. Song, ``No eigenvalues outside the limiting support of generally correlated and noncentral sample covariance matrices,'' submmited to /IEEE Trans. Inf. Theory/, Jul. 2025. [https://arxiv.org/abs/2507.03356 \[paper\]]
+  - *No Eigenvalues Outside the Limiting Support of Generally Correlated and Noncentral Sample Covariance Matrices* \n  
+  _Z. Zhuang_, X. Zhang, D. Xu, and S. Song\n
+  submmited to /IEEE Trans. Inf. Theory/, Jul. 2025. [https://arxiv.org/abs/2507.03356 \[paper\]]
 
-  - *Z. Zhuang*, X. Zhang, D. Xu, and S. Song, ``Fundamental limits of two-hop MIMO channels: An asymptotic approach,'' /IEEE Trans. Inf. Theory/,  vol. 71, no. 6, pp. 4069-4111, Jun. 2025. [https://ieeexplore.ieee.org/document/10938750 \[paper\]]
+  - *Fundamental Limits of Two-hop MIMO Channels: An Asymptotic Approach* \n
+    _Z. Zhuang_, X. Zhang, D. Xu, and S. Song \n
+    /IEEE Trans. Inf. Theory/,  vol. 71, no. 6, pp. 4069-4111, Jun. 2025. [https://ieeexplore.ieee.org/document/10938750 \[paper\]]
 
-  - *Z. Zhuang*, X. Zhang, D. Xu, S. Song, and Y. C. Eldar, ``Decentralized MIMO systems with imperfect CSI using LMMSE receivers,'' /IEEE J. Sel. Topics Signal Process./, vol. 19, no. 2, pp. 331-348, Mar. 2025. [https://ieeexplore.ieee.org/document/10879281 \[paper\]]
+  -  *Decentralized MIMO Systems with Imperfect CSI using LMMSE Receivers* \n 
+    _Z. Zhuang_, X. Zhang, D. Xu, S. Song, and Y. C. Eldar \n 
+    /IEEE J. Sel. Topics Signal Process./, vol. 19, no. 2, pp. 331-348, Mar. 2025. [https://ieeexplore.ieee.org/document/10879281 \[paper\]]
+
 === Conference Papers
-  - X. Zhang, *Z. Zhuang*, S. Song, C. Yuen, and M. Debbah, ``Capacity of holographic MIMO systems with mutual coupling,'' accepted by /IEEE Int. Symp. Inf. Theory (ISIT)/, 2025.
+  - *Capacity of Holographic MIMO Systems with Mutual Coupling* \n 
+    X. Zhang, _Z. Zhuang_, S. Song, C. Yuen, and M. Debbah \n
+    accepted by /IEEE Int. Symp. Inf. Theory (ISIT)/, 2025.
 
-  - *Z. Zhuang*, X. Zhang, D. Xu, and S. Song, ``Asymptotics of spiked covariance model with random projection,'' accepted by /IEEE Int. Symp. Inf. Theory (ISIT)/, 2025.
+  - *Asymptotics of Spiked Covariance Model with Random Projection* \n
+    _Z. Zhuang_, X. Zhang, D. Xu, and S. Song \n 
+    accepted by /IEEE Int. Symp. Inf. Theory (ISIT)/, 2025.
 
-  - *Z. Zhuang*, X. Zhang, D. Xu, and S. Song, ``Active IRS-aided MIMO communications: How much gain can we get?'' in /Proc. IEEE Wireless Commun. Netw. Conf. (WCNC)/, Dubai, UAE, Apr. 2024, pp. 1-6. [https://ieeexplore.ieee.org/abstract/document/10570925 \[paper\]]
+  - *Active IRS-aided MIMO Communications: How Much Gain Can We Get?* \n 
+    _Z. Zhuang_, X. Zhang, D. Xu, and S. Song \n 
+    in /Proc. IEEE Wireless Commun. Netw. Conf. (WCNC)/, Dubai, UAE, Apr. 2024, pp. 1-6. [https://ieeexplore.ieee.org/abstract/document/10570925 \[paper\]]
 
