@@ -28,7 +28,7 @@ My research interests include random matrix theory, information theory, and thei
 === Journal Papers
   - *No Eigenvalues Outside the Limiting Support of Generally Correlated and Noncentral Sample Covariance Matrices* \n  
   _Z. Zhuang_, X. Zhang, D. Xu, and S. Song\n
-  submmited to /IEEE Trans. Inf. Theory/, Jul. 2025. [https://arxiv.org/abs/2507.03356 \[paper\]]
+  submmited to /IEEE Trans. Inf. Theory/, major revision, 2025. [https://arxiv.org/abs/2507.03356 \[paper\]]
 
   - *Fundamental Limits of Two-hop MIMO Channels: An Asymptotic Approach* \n
     _Z. Zhuang_, X. Zhang, D. Xu, and S. Song \n
@@ -39,13 +39,26 @@ My research interests include random matrix theory, information theory, and thei
     /IEEE J. Sel. Topics Signal Process./, vol. 19, no. 2, pp. 331-348, Mar. 2025. [https://ieeexplore.ieee.org/document/10879281 \[paper\]]
 
 === Conference Papers
+
+  - *Gradient Descent Dynamics of Rank-One Matrix Denoising* \n
+    _Z, Zhuang_ and S. Song \n
+    accepted by /International Conference on Learning Representations (ICLR)/, 2026. [https://openreview.net/forum?id=S5oAnaIbgb \[paper\]]
+  
+  - *Random Matrix Analysis of Error Probability Bound for General MIMO Fading Channels* \n
+    X. Zhang, _Z. Zhuang_, J. Wang, S. Song, and W. Chen \n
+    submmited to /IEEE Int. Symp. Inf. Theory (ISIT)/, 2026.
+
+  - *High-Dimensional SGD Dynamics for Binary Classification Problem with Noisy Labels* \n
+    _Z. Zhuang_, X. Zhang, and S. Song \n
+    submmited to /IEEE Int. Symp. Inf. Theory (ISIT)/, 2026.
+
   - *Capacity of Holographic MIMO Systems with Mutual Coupling* \n 
     X. Zhang, _Z. Zhuang_, S. Song, C. Yuen, and M. Debbah \n
-    accepted by /IEEE Int. Symp. Inf. Theory (ISIT)/, 2025.
+    in /Proc. IEEE Int. Symp. Inf. Theory (ISIT)/,  Ann Arbor, MI, USA, Jun. 2025. [https://ieeexplore.ieee.org/document/11195394 \[paper\]]
 
   - *Asymptotics of Spiked Covariance Model with Random Projection* \n
     _Z. Zhuang_, X. Zhang, D. Xu, and S. Song \n 
-    accepted by /IEEE Int. Symp. Inf. Theory (ISIT)/, 2025.
+    in /Proc. IEEE Int. Symp. Inf. Theory (ISIT)/,  Ann Arbor, MI, USA, Jun. 2025. [https://ieeexplore.ieee.org/document/11195238 \[paper\]]
 
   - *Active IRS-aided MIMO Communications: How Much Gain Can We Get?* \n 
     _Z. Zhuang_, X. Zhang, D. Xu, and S. Song \n 
