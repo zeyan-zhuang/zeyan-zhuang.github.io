@@ -26,9 +26,21 @@ My research interests include random matrix theory, information theory, and thei
 
 == Preprints and Publications
 === Journal Papers
+- *Fundamental Limits of Jacobi MIMO Channels With Finite Blocklength* \n  
+  X. Zhang, J. Wang, _Z. Zhuang_, D. Xu, S. Song, and M. Debbah, \n
+   submmited to /IEEE Trans. Inf. Theory/, Jul. 2026. 
+
+- *2D Coprime Pilots for Delay-Doppler Sensing in OFDM-ISAC Systems* \n
+  G. Shang, _Z. Zhuang_, A. Tang,  S. Song, and C. Tsui, \n
+  submmited to /IEEE Trans. Commun./, Jul. 2026.
+
+  - *Task-Oriented Precoding for Edge Inference over Large-Scale MIMO Systems* \n  
+  H Li, _Z. Zhuang_, Z. Wang, H. He, S. Song, J. Zhang, and K.B. Letaief \n
+   submmited to /IEEE J. Sel. Topics Signal Process./, Jun. 2026. [https://arxiv.org/abs/2607.17877 \[paper\]]
+
   - *No Eigenvalues Outside the Limiting Support of Generally Correlated and Noncentral Sample Covariance Matrices* \n  
   _Z. Zhuang_, X. Zhang, D. Xu, and S. Song\n
-   to appear /IEEE Trans. Inf. Theory/, 2026. [https://arxiv.org/abs/2507.03356 \[paper\]]
+   to appear /IEEE Trans. Inf. Theory/, 2026. [https://ieeexplore.ieee.org/abstract/document/11561010 \[paper\]]
 
   - *Fundamental Limits of Two-hop MIMO Channels: An Asymptotic Approach* \n
     _Z. Zhuang_, X. Zhang, D. Xu, and S. Song \n
@@ -39,9 +51,6 @@ My research interests include random matrix theory, information theory, and thei
     /IEEE J. Sel. Topics Signal Process./, vol. 19, no. 2, pp. 331-348, Mar. 2025. [https://ieeexplore.ieee.org/document/10879281 \[paper\]]
 
 === Conference Papers
-  - *Random Matrix Analysis of Error Probability Bound for General MIMO Fading Channels* \n
-    X. Zhang, _Z. Zhuang_, J. Wang, S. Song, and W. Chen  \n
-    submmited to /IEEE Global Commun. Conf. (GLOBECOM)/, 2026.
 
   - *	High-Dimensional SGD Dynamics for Binary Classification Problem with Noisy Labels* \n
     _Z. Zhuang_, X. Zhang, and S. Song \n
