@@ -2,6 +2,14 @@
 
 Run these commands from the project directory with Python 3.
 
+Page sources:
+
+- `index.jemdoc`: profile, About me, and News.
+- `biography.jemdoc`: academic appointments, education, and service.
+- `publications.jemdoc`: complete publications and preprints.
+
+Navigation is configured in `MENU`. Rebuild all pages after changing the menu.
+
 Build the homepage:
 
 ```sh

@@ -1,0 +1,68 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+= Publications
+
+== Journal Articles
+
+. *No Eigenvalues Outside the Limiting Support of Generally Correlated and Noncentral Sample Covariance Matrices* \n
+  *Z. Zhuang*, X. Zhang, D. Xu, and S. Song, \n
+  /IEEE Trans. Inf. Theory/, vol. 72, no. 9, pp. 6928-6962, Sep. 2026. [https://ieeexplore.ieee.org/abstract/document/11561010 \[Paper\]]
+. *Fundamental Limits of Two-hop MIMO Channels: An Asymptotic Approach* \n
+  *Z. Zhuang*, X. Zhang, D. Xu, and S. Song, \n
+  /IEEE Trans. Inf. Theory/, vol. 71, no. 6, pp. 4069-4111, Jun. 2025. [https://ieeexplore.ieee.org/document/10938750 \[Paper\]]
+. *Decentralized MIMO Systems with Imperfect CSI using LMMSE Receivers* \n
+  *Z. Zhuang*, X. Zhang, D. Xu, S. Song, and Y. C. Eldar, \n
+  /IEEE J. Sel. Topics Signal Process./, vol. 19, no. 2, pp. 331-348, Mar. 2025. [https://ieeexplore.ieee.org/document/10879281 \[Paper\]]
+
+== Conference Papers
+
+. *Ordered Statistics Decoding With Local Constraints for Short-Block Faster-than-Nyquist Transmission* \n
+  Y. Wang, *Z. Zhuang*, and Q. Wang, \n
+  accepted by /Int. Conf. on Software System and Information Processing (ICSSIP)/, Lanzhou, China, Nov. 27–29, 2026.
+. *High-Dimensional SGD Dynamics for Binary Classification Problem with Noisy Labels* \n
+  *Z. Zhuang*, X. Zhang, and S. Song, \n
+  in /Proc. IEEE Int. Symp. Inf. Theory (ISIT)/, Guangzhou, China, Jun.–Jul. 2026. [https://doi.org/10.1109/ISIT62367.2026.11653618 \[Paper\]]
+. *Gradient Descent Dynamics of Rank-One Matrix Denoising* \n
+  *Z. Zhuang* and S. Song, \n
+  in /Proc. Int. Conf. Learn. Representations (ICLR)/, Rio de Janeiro, Brazil, Apr. 2026. [https://openreview.net/forum?id=S5oAnaIbgb \[Paper\]]
+. *Capacity of Holographic MIMO Systems with Mutual Coupling* \n
+  X. Zhang, *Z. Zhuang*, S. Song, C. Yuen, and M. Debbah, \n
+  in /Proc. IEEE Int. Symp. Inf. Theory (ISIT)/, Ann Arbor, MI, USA, Jun. 2025. [https://ieeexplore.ieee.org/document/11195394 \[Paper\]]
+. *Asymptotics of Spiked Covariance Model with Random Projection* \n
+  *Z. Zhuang*, X. Zhang, D. Xu, and S. Song, \n
+  in /Proc. IEEE Int. Symp. Inf. Theory (ISIT)/, Ann Arbor, MI, USA, Jun. 2025. [https://ieeexplore.ieee.org/document/11195238 \[Paper\]]
+. *Active IRS-aided MIMO Communications: How Much Gain Can We Get?* \n
+  *Z. Zhuang*, X. Zhang, D. Xu, and S. Song, \n
+  in /Proc. IEEE Wireless Commun. Netw. Conf. (WCNC)/, Dubai, UAE, Apr. 2024, pp. 1-6. [https://ieeexplore.ieee.org/abstract/document/10570925 \[Paper\]]
+
+== Preprints and Manuscripts
+
+. *A CLT for the SINR of Decentralized LMMSE Reception Over Spatially Correlated Channels* \n
+  *Z. Zhuang*, A. Tang, G. Shang, Y. Wang, W. Chen, and S. Song, \n
+  submitted to /IEEE Wireless Commun. Netw. Conf. (WCNC) 2027/.
+. *Prospective Importance-Based Cognitive Pilot Design for Semantic Sensing in ISAC Systems* \n
+  G. Shang, A. Tang, *Z. Zhuang*, and S. Song, \n
+  submitted to /IEEE Wireless Commun. Netw. Conf. (WCNC) 2027/. [https://arxiv.org/abs/2611.12082 \[arXiv\]]
+. *Variational Flow Matching-Aided Channel Estimation for MIMO-OFDM Systems* \n
+  A. Tang, A. Rezaei, G. Shang, *Z. Zhuang*, S. Song, and C. Tsui, \n
+  submitted to /IEEE Wireless Commun. Netw. Conf. (WCNC) 2027/.
+. *Random Matrix Analysis of Error Probability Bound for General MIMO Fading Channels* \n
+  X. Zhang, *Z. Zhuang*, J. Wang, S. Song, W. Chen, and M. Debbah, \n
+  submitted to /IEEE Int. Conf. Commun. (ICC) 2027/.
+. *Spatial Retransmission for Pinching-Antenna HARQ: Reliability Analysis and Position Optimization* \n
+  Q. Wang, Y. Wang, J. Yang, *Z. Zhuang*, S. Li, S. Song, X. Ma, and L. Song, \n
+  submitted to /IEEE J. Sel. Areas Commun./, Oct. 30, 2026.
+. *A Unified Framework for Characterizing General MIMO Channels* \n
+  *Z. Zhuang*, A. Tang, X. Zhang, D. Xu, and S. Song, \n
+  submitted to /IEEE Trans. Inf. Theory/, Oct. 2026. [https://arxiv.org/abs/2610.08932 \[arXiv\]]
+. *Mutual Information Autocovariance for MIMO Channels with Cross-State Dependence* \n
+  A. Rezaei, *Z. Zhuang*, and S. Song, \n
+  submitted to /IEEE Commun. Lett./, Oct. 2026.
+. *Fundamental Limits of Jacobi MIMO Channels With Finite Blocklength* \n
+  X. Zhang, J. Wang, *Z. Zhuang*, D. Xu, S. Song, and M. Debbah, \n
+  submitted to /IEEE Trans. Inf. Theory/, Aug. 2026.
+. *2D Coprime Pilots for Delay-Doppler Sensing in OFDM-ISAC Systems* \n
+  G. Shang, *Z. Zhuang*, A. Tang, S. Song, and C. Tsui, \n
+  submitted to /IEEE Trans. Commun./, Jul. 2026. [https://arxiv.org/abs/2610.11172 \[arXiv\]]
+. *Task-Oriented Precoding for Edge Inference over Large-Scale MIMO Systems* \n
+  H. Li, *Z. Zhuang*, Z. Wang, H. He, S. Song, J. Zhang, and K. B. Letaief, \n
+  /IEEE J. Sel. Topics Signal Process./, in minor revision (submitted Jun. 2026). [https://arxiv.org/abs/2607.17877 \[arXiv\]]
